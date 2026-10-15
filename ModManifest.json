@@ -1,0 +1,10 @@
+{
+  "guid": "com.luisfelipe.instantwater",
+  "name": "InstantWater",
+  "displayName": "Instant Water",
+  "accessesExtraAssemblies": true,
+  "files": [
+    { "path": "InstantWater.cs" }
+  ],
+  "dependencies": []
+}
